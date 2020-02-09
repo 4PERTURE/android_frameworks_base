@@ -18,9 +18,6 @@
     <!-- Whether SystemUI ignores notch -->
     <bool name="hide_view_behind_notch">false</bool>
 
-    <!-- Whether to show VoLTE icon in the status bar -->
-    <bool name="config_display_volte">true</bool>
-
     <!-- Burn-in protection -->
     <bool name="config_statusBarBurnInProtection">false</bool>
     <integer name="config_shift_interval">60</integer>
